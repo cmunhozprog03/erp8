@@ -7,7 +7,72 @@
 @stop
 
 @section('content')
-    <p>Welcome to this beautiful admin panel.</p>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+    <div class="card shadow">
+        <p>Welcome to this beautiful admin panel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dicta sint pariatur ratione similique voluptatum officia dolores aut facilis sunt id est, eaque repellendus quasi a omnis quae, unde deleniti?
+        </p>
+    </div>
+
 @stop
 
 @section('css')
